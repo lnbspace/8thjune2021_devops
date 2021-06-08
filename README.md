@@ -91,5 +91,47 @@ Hello world
 
 
 ```
+### TYpe checking of data 
+
+```
+>>> x=10
+>>> 
+>>> type(x)
+<class 'int'>
+>>> 
+>>> x="10"
+>>> 
+>>> type(x)
+<class 'str'>
+>>> 
+
+
+```
+
+### Python as memory optimize language 
+
+```
+anonymous@ashutoshhs-MacBook-Air ~ % python3
+Python 3.9.4 (v3.9.4:1f2e3088f3, Apr  4 2021, 12:19:19) 
+[Clang 12.0.0 (clang-1200.0.32.29)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> x=10
+>>> y=20
+>>> id(x)
+4419258960
+>>> 
+>>> id(y)
+4419259280
+>>> 
+>>> z=10
+>>> 
+>>> id(z)
+4419258960
+
+```
+
+### memory optimization 
+
+<img src="memopt.png">
 
 
