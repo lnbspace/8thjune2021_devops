@@ -1,3 +1,14 @@
-# Plz don't upload any thing in Main branch 
+## Loop & Iteration 
 
-## ENjoy Core Learning 
+## LooP --- WHile 
+
+### Iteration -- FOR 
+
+##  print image
+
+<img src="dis1.png">
+
+## task 
+
+<img src="task1.png">
+
