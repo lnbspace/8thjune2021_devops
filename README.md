@@ -123,3 +123,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ```
 
+## Installer in OS and Lang 
+
+<img src="installer.png">
+
